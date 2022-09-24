@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bowen Shi | Home</title>
-    <link>https://li-zhaokai.github.io/li-zhaokai/authors/bowen-shi.html</link>
-      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/authors/bowen-shi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/authors/bowen-shi/</link>
+      <atom:link href="https://li-zhaokai.github.io/authors/bowen-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Bowen Shi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bowen Shi</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/authors/bowen-shi.html</link>
+      <link>https://li-zhaokai.github.io/authors/bowen-shi/</link>
     </image>
     
     <item>
       <title>An Improved Hybrid Field Model for Calculating On-Load Performance of Interior Permanent-Magnet Motors</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors.html</link>
+      <link>https://li-zhaokai.github.io/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Open-Circuit Field Prediction of Interior Permanent-Magnet Motor Using Hybrid Field Model Accounting for Saturation</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation.html</link>
+      <link>https://li-zhaokai.github.io/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

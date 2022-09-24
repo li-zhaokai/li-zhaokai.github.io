@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Home</title>
-    <link>https://li-zhaokai.github.io/li-zhaokai/tags.html</link>
-      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/tags/</link>
+      <atom:link href="https://li-zhaokai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags.html</link>
+      <link>https://li-zhaokai.github.io/tags/</link>
     </image>
     
     <item>
       <title>Journal Paper</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/journal-paper.html</link>
+      <link>https://li-zhaokai.github.io/tags/journal-paper/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/journal-paper.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/journal-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/academic.html</link>
+      <link>https://li-zhaokai.github.io/tags/academic/</link>
       <pubDate>Fri, 23 Sep 2022 19:15:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/academic.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-efficiency</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/high-efficiency.html</link>
+      <link>https://li-zhaokai.github.io/tags/high-efficiency/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/high-efficiency.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/high-efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fault-diagnosis</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/fault-diagnosis.html</link>
+      <link>https://li-zhaokai.github.io/tags/fault-diagnosis/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/fault-diagnosis.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/fault-diagnosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EV-Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/ev-motor.html</link>
+      <link>https://li-zhaokai.github.io/tags/ev-motor/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/ev-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/ev-motor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Speed PMSM</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/high-speed-pmsm.html</link>
+      <link>https://li-zhaokai.github.io/tags/high-speed-pmsm/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/high-speed-pmsm.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/high-speed-pmsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/tags/source-themes.html</link>
+      <link>https://li-zhaokai.github.io/tags/source-themes/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/tags/source-themes.html</guid>
+      <guid>https://li-zhaokai.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     

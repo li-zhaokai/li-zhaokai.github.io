@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>https://li-zhaokai.github.io/li-zhaokai/</link>
-      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/</link>
+      <atom:link href="https://li-zhaokai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Home</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/</link>
+      <link>https://li-zhaokai.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/courses/example/example1.html</link>
+      <link>https://li-zhaokai.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/courses/example/example1.html</guid>
+      <guid>https://li-zhaokai.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/courses/example/example2.html</link>
+      <link>https://li-zhaokai.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/courses/example/example2.html</guid>
+      <guid>https://li-zhaokai.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/talk/example.html</link>
+      <link>https://li-zhaokai.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/talk/example.html</guid>
+      <guid>https://li-zhaokai.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -76,18 +76,18 @@
     
     <item>
       <title>Analytical Model of Electromagnetic Performance for Permanent-Magnet Vernier Machines Using Nonlinear Exact Conformal Model</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model.html</link>
+      <link>https://li-zhaokai.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/analytical-model-of-electromagnetic-performance-for-permanent-magnet-vernier-machines-using-nonlinear-exact-conformal-model/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello, World. My Academic Blog</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/post/getting-started.html</link>
+      <link>https://li-zhaokai.github.io/post/getting-started/</link>
       <pubDate>Fri, 23 Sep 2022 19:15:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/post/getting-started.html</guid>
+      <guid>https://li-zhaokai.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Test 1&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -183,144 +183,144 @@
     
     <item>
       <title>Investigation of Analytical Models for Surface-Mounted Permanent Magnet Motor Using Voltage Source Inverter</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/investigation-of-analytical-models-for-surface-mounted-permanent-magnet-motor-using-voltage-source-inverter.html</link>
+      <link>https://li-zhaokai.github.io/publication/investigation-of-analytical-models-for-surface-mounted-permanent-magnet-motor-using-voltage-source-inverter/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/investigation-of-analytical-models-for-surface-mounted-permanent-magnet-motor-using-voltage-source-inverter.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/investigation-of-analytical-models-for-surface-mounted-permanent-magnet-motor-using-voltage-source-inverter/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analytical Calculation of Eccentric Surface-Mounted Permanent-Magnet Motor Accounting for Iron Saturation</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/analytical-calculation-of-eccentric-surface-mounted-permanent-magnet-motor-accounting-for-iron-saturation.html</link>
+      <link>https://li-zhaokai.github.io/publication/analytical-calculation-of-eccentric-surface-mounted-permanent-magnet-motor-accounting-for-iron-saturation/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/analytical-calculation-of-eccentric-surface-mounted-permanent-magnet-motor-accounting-for-iron-saturation.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/analytical-calculation-of-eccentric-surface-mounted-permanent-magnet-motor-accounting-for-iron-saturation/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonlinear Analytical Model for Predicting Magnet Loss in Surface-Mounted Permanent-Magnet Motors</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-model-for-predicting-magnet-loss-in-surface-mounted-permanent-magnet-motors.html</link>
+      <link>https://li-zhaokai.github.io/publication/nonlinear-analytical-model-for-predicting-magnet-loss-in-surface-mounted-permanent-magnet-motors/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-model-for-predicting-magnet-loss-in-surface-mounted-permanent-magnet-motors.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/nonlinear-analytical-model-for-predicting-magnet-loss-in-surface-mounted-permanent-magnet-motors/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Efficiency Low Cost Fan Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/high-efficiency-fan-motor.html</link>
+      <link>https://li-zhaokai.github.io/project/high-efficiency-fan-motor/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/high-efficiency-fan-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/project/high-efficiency-fan-motor/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonlinear Analytical Modelling for Surface-Mounted Permanent Magnet Motors with Magnet Defect Fault</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault.html</link>
+      <link>https://li-zhaokai.github.io/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/nonlinear-analytical-modelling-for-surface-mounted-permanent-magnet-motors-with-magnet-defect-fault/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Electromagnetic Analysis for Interior Permanent-Magnet Machine Using Hybrid Subdomain Model</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/electromagnetic-analysis-for-interior-permanent-magnet-machine-using-hybrid-subdomain-model.html</link>
+      <link>https://li-zhaokai.github.io/publication/electromagnetic-analysis-for-interior-permanent-magnet-machine-using-hybrid-subdomain-model/</link>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/electromagnetic-analysis-for-interior-permanent-magnet-machine-using-hybrid-subdomain-model.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/electromagnetic-analysis-for-interior-permanent-magnet-machine-using-hybrid-subdomain-model/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Motor Condition Monitor and Fault Diagnosis</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/motor-faults.html</link>
+      <link>https://li-zhaokai.github.io/project/motor-faults/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/motor-faults.html</guid>
+      <guid>https://li-zhaokai.github.io/project/motor-faults/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Full Parameter Estimation for Permanent Magnet Synchronous Motors</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/full-parameter-estimation-for-permanent-magnet-synchronous-motors.html</link>
+      <link>https://li-zhaokai.github.io/publication/full-parameter-estimation-for-permanent-magnet-synchronous-motors/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/full-parameter-estimation-for-permanent-magnet-synchronous-motors.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/full-parameter-estimation-for-permanent-magnet-synchronous-motors/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design Consideration of Fractional Slot Concentrated Winding Interior Permanent Magnet Synchronous Motor for EV and HEV Applications</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/design-consideration-of-fractional-slot-concentrated-winding-interior-permanent-magnet-synchronous-motor-for-ev-and-hev-applications.html</link>
+      <link>https://li-zhaokai.github.io/publication/design-consideration-of-fractional-slot-concentrated-winding-interior-permanent-magnet-synchronous-motor-for-ev-and-hev-applications/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/design-consideration-of-fractional-slot-concentrated-winding-interior-permanent-magnet-synchronous-motor-for-ev-and-hev-applications.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/design-consideration-of-fractional-slot-concentrated-winding-interior-permanent-magnet-synchronous-motor-for-ev-and-hev-applications/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonlinear Analytical Analysis of External Rotor Permanent-Magnet Synchronous Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-analysis-of-external-rotor-permanent-magnet-synchronous-motor.html</link>
+      <link>https://li-zhaokai.github.io/publication/nonlinear-analytical-analysis-of-external-rotor-permanent-magnet-synchronous-motor/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/nonlinear-analytical-analysis-of-external-rotor-permanent-magnet-synchronous-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/nonlinear-analytical-analysis-of-external-rotor-permanent-magnet-synchronous-motor/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fractional Slot Centralized Winding IPM Motor for Electric Vehicles.</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/ev-motor.html</link>
+      <link>https://li-zhaokai.github.io/project/ev-motor/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/ev-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/project/ev-motor/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Improved Hybrid Field Model for Calculating On-Load Performance of Interior Permanent-Magnet Motors</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors.html</link>
+      <link>https://li-zhaokai.github.io/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/an-improved-hybrid-field-model-for-calculating-on-load-performance-of-interior-permanent-magnet-motors/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design of High-Speed Permanent-Magnet Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/high-speed-pmsm.html</link>
+      <link>https://li-zhaokai.github.io/project/high-speed-pmsm/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/high-speed-pmsm.html</guid>
+      <guid>https://li-zhaokai.github.io/project/high-speed-pmsm/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Open-Circuit Field Prediction of Interior Permanent-Magnet Motor Using Hybrid Field Model Accounting for Saturation</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation.html</link>
+      <link>https://li-zhaokai.github.io/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/open-circuit-field-prediction-of-interior-permanent-magnet-motor-using-hybrid-field-model-accounting-for-saturation/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rotating Permanent Magnets Based Flux Pump for HTS No-Insulation Coil</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/rotating-permanent-magnets-based-flux-pump-for-hts-no-insulation-coil.html</link>
+      <link>https://li-zhaokai.github.io/publication/rotating-permanent-magnets-based-flux-pump-for-hts-no-insulation-coil/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/rotating-permanent-magnets-based-flux-pump-for-hts-no-insulation-coil.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/rotating-permanent-magnets-based-flux-pump-for-hts-no-insulation-coil/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/slides/example.html</link>
+      <link>https://li-zhaokai.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/slides/example.html</guid>
+      <guid>https://li-zhaokai.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -446,27 +446,27 @@ Three
     
     <item>
       <title>On-Load Field Prediction of Surface-Mounted PM Machines Considering Nonlinearity Based on Hybrid Field Model</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model.html</link>
+      <link>https://li-zhaokai.github.io/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/on-load-field-prediction-of-surface-mounted-pm-machines-considering-nonlinearity-based-on-hybrid-field-model/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Hybrid Field Model for Open-Circuit Field Prediction in Surface-Mounted PM Machines Considering Saturation</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation.html</link>
+      <link>https://li-zhaokai.github.io/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/a-hybrid-field-model-for-open-circuit-field-prediction-in-surface-mounted-pm-machines-considering-saturation/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/conference-paper.html</link>
+      <link>https://li-zhaokai.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/conference-paper.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -483,9 +483,9 @@ Three
     
     <item>
       <title>Design and Testing of an Impact Sensor Using Two Crossed Polyvinylidene Fluoride (PVDF) Films</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/publication/design-and-testing-of-an-impact-sensor-using-two-crossed-polyvinylidene-fluoride-pvdf-films.html</link>
+      <link>https://li-zhaokai.github.io/publication/design-and-testing-of-an-impact-sensor-using-two-crossed-polyvinylidene-fluoride-pvdf-films/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/design-and-testing-of-an-impact-sensor-using-two-crossed-polyvinylidene-fluoride-pvdf-films.html</guid>
+      <guid>https://li-zhaokai.github.io/publication/design-and-testing-of-an-impact-sensor-using-two-crossed-polyvinylidene-fluoride-pvdf-films/</guid>
       <description>&lt;p&gt;Full paper can be downloaded &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

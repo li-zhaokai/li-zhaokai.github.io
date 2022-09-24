@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Home</title>
-    <link>https://li-zhaokai.github.io/li-zhaokai/project.html</link>
-      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/project/</link>
+      <atom:link href="https://li-zhaokai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project.html</link>
+      <link>https://li-zhaokai.github.io/project/</link>
     </image>
     
     <item>
       <title>Efficiency Low Cost Fan Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/high-efficiency-fan-motor.html</link>
+      <link>https://li-zhaokai.github.io/project/high-efficiency-fan-motor/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/high-efficiency-fan-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/project/high-efficiency-fan-motor/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Motor Condition Monitor and Fault Diagnosis</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/motor-faults.html</link>
+      <link>https://li-zhaokai.github.io/project/motor-faults/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/motor-faults.html</guid>
+      <guid>https://li-zhaokai.github.io/project/motor-faults/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fractional Slot Centralized Winding IPM Motor for Electric Vehicles.</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/ev-motor.html</link>
+      <link>https://li-zhaokai.github.io/project/ev-motor/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/ev-motor.html</guid>
+      <guid>https://li-zhaokai.github.io/project/ev-motor/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Design of High-Speed Permanent-Magnet Motor</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/project/high-speed-pmsm.html</link>
+      <link>https://li-zhaokai.github.io/project/high-speed-pmsm/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/project/high-speed-pmsm.html</guid>
+      <guid>https://li-zhaokai.github.io/project/high-speed-pmsm/</guid>
       <description>&lt;p&gt;There is detail to be added.&lt;/p&gt;
 </description>
     </item>

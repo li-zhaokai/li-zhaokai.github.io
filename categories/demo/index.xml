@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Home</title>
-    <link>https://li-zhaokai.github.io/li-zhaokai/categories/demo.html</link>
-      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/categories/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/categories/demo/</link>
+      <atom:link href="https://li-zhaokai.github.io/categories/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Fri, 23 Sep 2022 19:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/categories/demo.html</link>
+      <link>https://li-zhaokai.github.io/categories/demo/</link>
     </image>
     
     <item>
       <title>Hello, World. My Academic Blog</title>
-      <link>https://li-zhaokai.github.io/li-zhaokai/post/getting-started.html</link>
+      <link>https://li-zhaokai.github.io/post/getting-started/</link>
       <pubDate>Fri, 23 Sep 2022 19:15:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/li-zhaokai/post/getting-started.html</guid>
+      <guid>https://li-zhaokai.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Test 1&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
