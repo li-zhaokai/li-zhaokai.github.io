@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Ford | Home</title>
-    <link>https://li-zhaokai.github.io/authors/robert-ford/</link>
-      <atom:link href="https://li-zhaokai.github.io/authors/robert-ford/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/li-zhaokai/authors/robert-ford.html</link>
+      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/authors/robert-ford/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Ford</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Robert Ford</title>
-      <link>https://li-zhaokai.github.io/authors/robert-ford/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/robert-ford.html</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://li-zhaokai.github.io/publication/conference-paper/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/publication/conference-paper.html</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/publication/conference-paper/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/publication/conference-paper.html</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

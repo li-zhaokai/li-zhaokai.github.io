@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Home</title>
-    <link>https://li-zhaokai.github.io/authors/</link>
-      <atom:link href="https://li-zhaokai.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://li-zhaokai.github.io/li-zhaokai/authors.html</link>
+      <atom:link href="https://li-zhaokai.github.io/li-zhaokai/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Zhaokai AllRightsReserved.</copyright><lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-zhaokai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-zhaokai.github.io/li-zhaokai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://li-zhaokai.github.io/authors/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors.html</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://li-zhaokai.github.io/authors/admin/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/admin.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/admin/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/admin.html</guid>
       <description>&lt;p&gt;Zhaokai Li was born in Lishui, China, in 1993. He received the B.S. degree and Ph.D. degree in electrical engineering from Zhejiang University, Hangzhou, China, in 2015 and 2020, respectively.
 He is currently a postdoctoral researcher in Zhejiang University. His major research interests include the analytical modelling of PMSM and iron loss analysis.&lt;/p&gt;
 </description>
@@ -24,393 +24,393 @@ He is currently a postdoctoral researcher in Zhejiang University. His major rese
     
     <item>
       <title>Ang Liu</title>
-      <link>https://li-zhaokai.github.io/authors/ang-liu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/ang-liu.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/ang-liu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/ang-liu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lijian Wu</title>
-      <link>https://li-zhaokai.github.io/authors/lijian-wu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/lijian-wu.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/lijian-wu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/lijian-wu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tingna Shi</title>
-      <link>https://li-zhaokai.github.io/authors/tingna-shi/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/tingna-shi.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/tingna-shi/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/tingna-shi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaoyan Huang</title>
-      <link>https://li-zhaokai.github.io/authors/xiaoyan-huang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/xiaoyan-huang.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/xiaoyan-huang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/xiaoyan-huang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zixuan Liu</title>
-      <link>https://li-zhaokai.github.io/authors/zixuan-liu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/zixuan-liu.html</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/zixuan-liu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/zixuan-liu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teng Long</title>
-      <link>https://li-zhaokai.github.io/authors/teng-long/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/teng-long.html</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/teng-long/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/teng-long.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wucheng Ying</title>
-      <link>https://li-zhaokai.github.io/authors/wucheng-ying/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/wucheng-ying.html</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/wucheng-ying/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/wucheng-ying.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xinru Li</title>
-      <link>https://li-zhaokai.github.io/authors/xinru-li/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/xinru-li.html</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/xinru-li/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/xinru-li.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuzheng Chen</title>
-      <link>https://li-zhaokai.github.io/authors/yuzheng-chen/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yuzheng-chen.html</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yuzheng-chen/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yuzheng-chen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yelong Yu</title>
-      <link>https://li-zhaokai.github.io/authors/yelong-yu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yelong-yu.html</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yelong-yu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yelong-yu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhuo Chen</title>
-      <link>https://li-zhaokai.github.io/authors/zhuo-chen/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/zhuo-chen.html</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/zhuo-chen/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/zhuo-chen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Zhang</title>
-      <link>https://li-zhaokai.github.io/authors/jian-zhang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jian-zhang.html</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jian-zhang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jian-zhang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaofeng Xu</title>
-      <link>https://li-zhaokai.github.io/authors/xiaofeng-xu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/xiaofeng-xu.html</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/xiaofeng-xu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/xiaofeng-xu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ze Jiang</title>
-      <link>https://li-zhaokai.github.io/authors/ze-jiang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/ze-jiang.html</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/ze-jiang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/ze-jiang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dongdong Jiang</title>
-      <link>https://li-zhaokai.github.io/authors/dongdong-jiang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/dongdong-jiang.html</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/dongdong-jiang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/dongdong-jiang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yiming Shen</title>
-      <link>https://li-zhaokai.github.io/authors/yiming-shen/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yiming-shen.html</link>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yiming-shen/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yiming-shen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feng Niu</title>
-      <link>https://li-zhaokai.github.io/authors/feng-niu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/feng-niu.html</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/feng-niu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/feng-niu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geng Yang</title>
-      <link>https://li-zhaokai.github.io/authors/geng-yang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/geng-yang.html</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/geng-yang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/geng-yang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Min Wu</title>
-      <link>https://li-zhaokai.github.io/authors/min-wu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/min-wu.html</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/min-wu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/min-wu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yanfei Cao</title>
-      <link>https://li-zhaokai.github.io/authors/yanfei-cao/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yanfei-cao.html</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yanfei-cao/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yanfei-cao.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chenxi Zhou</title>
-      <link>https://li-zhaokai.github.io/authors/chenxi-zhou/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/chenxi-zhou.html</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/chenxi-zhou/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/chenxi-zhou.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wenping Cao</title>
-      <link>https://li-zhaokai.github.io/authors/wenping-cao/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/wenping-cao.html</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/wenping-cao/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/wenping-cao.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yan Yan</title>
-      <link>https://li-zhaokai.github.io/authors/yan-yan/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yan-yan.html</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yan-yan/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yan-yan.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Z. Q. Zhu</title>
-      <link>https://li-zhaokai.github.io/authors/z.-q.-zhu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/z.-q.-zhu.html</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/z.-q.-zhu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/z.-q.-zhu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bowen Shi</title>
-      <link>https://li-zhaokai.github.io/authors/bowen-shi/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/bowen-shi.html</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/bowen-shi/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/bowen-shi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>He Zhang</title>
-      <link>https://li-zhaokai.github.io/authors/he-zhang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/he-zhang.html</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/he-zhang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/he-zhang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boyang Shen</title>
-      <link>https://li-zhaokai.github.io/authors/boyang-shen/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/boyang-shen.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/boyang-shen/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/boyang-shen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chao Li</title>
-      <link>https://li-zhaokai.github.io/authors/chao-li/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/chao-li.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/chao-li/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/chao-li.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heng Zhang</title>
-      <link>https://li-zhaokai.github.io/authors/heng-zhang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/heng-zhang.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/heng-zhang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/heng-zhang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jamie Gawith</title>
-      <link>https://li-zhaokai.github.io/authors/jamie-gawith/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jamie-gawith.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jamie-gawith/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jamie-gawith.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiabin Yang</title>
-      <link>https://li-zhaokai.github.io/authors/jiabin-yang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jiabin-yang.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jiabin-yang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jiabin-yang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianzhao Geng</title>
-      <link>https://li-zhaokai.github.io/authors/jianzhao-geng/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jianzhao-geng.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jianzhao-geng/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jianzhao-geng.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jie Chen</title>
-      <link>https://li-zhaokai.github.io/authors/jie-chen/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jie-chen.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jie-chen/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jie-chen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jun Ma</title>
-      <link>https://li-zhaokai.github.io/authors/jun-ma/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jun-ma.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jun-ma/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jun-ma.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qihuan Dong</title>
-      <link>https://li-zhaokai.github.io/authors/qihuan-dong/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/qihuan-dong.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/qihuan-dong/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/qihuan-dong.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tim A. Coombs</title>
-      <link>https://li-zhaokai.github.io/authors/tim-a.-coombs/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/tim-a.-coombs.html</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/tim-a.-coombs/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/tim-a.-coombs.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Wang</title>
-      <link>https://li-zhaokai.github.io/authors/d.-wang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/d.-wang.html</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/d.-wang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/d.-wang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Yin</title>
-      <link>https://li-zhaokai.github.io/authors/h.-yin/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/h.-yin.html</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/h.-yin/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/h.-yin.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Fang</title>
-      <link>https://li-zhaokai.github.io/authors/y.-fang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/y.-fang.html</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/y.-fang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/y.-fang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Zhong</title>
-      <link>https://li-zhaokai.github.io/authors/y.-zhong/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/y.-zhong.html</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/y.-zhong/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/y.-zhong.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://li-zhaokai.github.io/authors/robert-ford/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/robert-ford.html</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/robert-ford/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/robert-ford.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hongping Tian</title>
-      <link>https://li-zhaokai.github.io/authors/hongping-tian/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/hongping-tian.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/hongping-tian/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/hongping-tian.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianping Wang</title>
-      <link>https://li-zhaokai.github.io/authors/jianping-wang/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/jianping-wang.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/jianping-wang/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/jianping-wang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rui Cao</title>
-      <link>https://li-zhaokai.github.io/authors/rui-cao/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/rui-cao.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/rui-cao/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/rui-cao.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiangqun Qian</title>
-      <link>https://li-zhaokai.github.io/authors/xiangqun-qian/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/xiangqun-qian.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/xiangqun-qian/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/xiangqun-qian.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xin Nie</title>
-      <link>https://li-zhaokai.github.io/authors/xin-nie/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/xin-nie.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/xin-nie/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/xin-nie.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ying Sun</title>
-      <link>https://li-zhaokai.github.io/authors/ying-sun/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/ying-sun.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/ying-sun/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/ying-sun.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yonghua Yu</title>
-      <link>https://li-zhaokai.github.io/authors/yonghua-yu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/yonghua-yu.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/yonghua-yu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/yonghua-yu.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhan Lu</title>
-      <link>https://li-zhaokai.github.io/authors/zhan-lu/</link>
+      <link>https://li-zhaokai.github.io/li-zhaokai/authors/zhan-lu.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://li-zhaokai.github.io/authors/zhan-lu/</guid>
+      <guid>https://li-zhaokai.github.io/li-zhaokai/authors/zhan-lu.html</guid>
       <description></description>
     </item>
     
